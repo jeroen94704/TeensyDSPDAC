@@ -1,6 +1,6 @@
-# Introduction
-
 # **WARNING** This design is currently (2023-10-21) being produced and hence untested. It might not function at all.
+
+# Introduction
 
 This board is intended as a decent 4-channel USB DAC with advanced DSP capabilities. The DSP functionality is provided by a Teensy 4.0 and the DAC stage is built around a pair of TI PCM5102A's.
 
