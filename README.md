@@ -1,4 +1,4 @@
-# **WARNING** This design is currently (2023-10-21) being produced and hence untested. It might not function at all.
+# **WARNING**: This design is currently (2023-10-21) untested. It might not function at all.
 
 # Introduction
 
